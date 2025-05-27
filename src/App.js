@@ -35,7 +35,7 @@ const sections = [
 
 function CodeBackground() {
   const codeLine = `const hello = "React Rocks!"; // Learn and build  `;
-  const repeatedLine = codeLine.repeat(100);
+  const repeatedLine = codeLine.repeat(10000);
   const lines = Array(10000).fill(repeatedLine);
 
   return (

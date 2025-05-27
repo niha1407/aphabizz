@@ -35,8 +35,8 @@ const sections = [
 
 function CodeBackground() {
   const codeLine = `const hello = "React Rocks!"; // Learn and build  `;
-  const repeatedLine = codeLine.repeat(1000);
-  const lines = Array(1000).fill(repeatedLine);
+  const repeatedLine = codeLine.repeat(100);
+  const lines = Array(100).fill(repeatedLine);
 
   return (
     <div className="code-background" aria-hidden="true">

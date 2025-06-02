@@ -25,7 +25,7 @@ function getRandom(min, max) {
 
 function getIconCount() {
   const isMobile = window.innerWidth < 768;
-  return isMobile ? 40 : 150; // reduced on mobile for performance
+  return isMobile ? 60 : 150; // reduced on mobile for performance
 }
 
 const FlyingIconsBackground = () => {

@@ -408,3 +408,21 @@ body {
 .faq-content {
   text-align: left !important;
 }
+
+.highlight-logo {
+  animation: pulse-glow 2s infinite;
+  transform: scale(1.05);
+  filter: drop-shadow(0 0 12px #00ffff);
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    filter: drop-shadow(0 0 8px #00ffff);
+    transform: scale(1.05);
+  }
+  50% {
+    filter: drop-shadow(0 0 16px #00ffff);
+    transform: scale(1.1);
+  }
+}
+

@@ -115,7 +115,7 @@ export default function App() {
   <h2 className="section-title">🎓 Meet Your Instructor</h2>
   <div className="instructor-card">
     <img
-      src="https://media.licdn.com/dms/image/v2/D5603AQFtgsbxunNKpQ/profile-displayphoto-shrink_400_400/B56Zb8P4z6HUAk-/0/1747988746969?e=1755734400&v=beta&t=kiPOnS0F5yas58VpOce1Cj89jZgYpq6BkScMiCSNFCU"
+      src="https://media.licdn.com/dms/image/v2/D5603AQHfa1-1rv6OXg/profile-displayphoto-shrink_400_400/B56Zgrhp6eHcAk-/0/1753076904518?e=1755734400&v=beta&t=8e89zV6dIJLoaBrB-T_6oWjl3Mqu00h4UiO00ykT99s"
       alt="Niharika - React Instructor"
       className="instructor-photo"
     />
@@ -151,7 +151,7 @@ export default function App() {
   </p>
   <form
     className="student-form"
-    action="https://formsubmit.co/niharikagoel2019@gmail.com"
+    action="https://formsubmit.co/Alphabizzcareerscontact@gmail.com"
     method="POST"
   >
     <input type="hidden" name="_next" value="https://x2pnyd-3000.csb.app/#thankyou" />

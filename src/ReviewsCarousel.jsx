@@ -6,22 +6,22 @@ import "./ReviewsCarousel.css";
 
 const reviews = [
   {
-    name: "Aayush",
+    name: "Abhishekh Tomar",
     text: "Super interactive session! Even as a beginner, I could follow along. Loved the AI insights too.",
     rating: 5,
-    image: "https://randomuser.me/api/portraits/men/75.jpg",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQEJFR6M6ScTKQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715438667117?e=1755734400&v=beta&t=cbUVUaZJi6oCEbOWXnSov3j9BRJbA2mtBiDcjZYf2ac",
   },
   {
-    name: "Priya Sharma",
+    name: "rakshita Rawat",
     text: "This React course changed the way I approach development. The mentor was super clear!",
     rating: 5,
-    image: "https://randomuser.me/api/portraits/women/65.jpg",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQEuRhexKiec5g/profile-displayphoto-shrink_100_100/B56ZUjCjCmGUAY-/0/1740049627563?e=1755734400&v=beta&t=RxefS7sMnSEJEBc-thPR7pH4SuhD_j5T79pETwbInl4",
   },
   {
-    name: "Harshit Verma",
+    name: "Parth Saini",
     text: "I’ve done many online courses, but this one had the best structure and support.",
     rating: 4,
-    image: "https://randomuser.me/api/portraits/men/56.jpg",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQE9IFkfYZ4ELg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1723873450094?e=1755734400&v=beta&t=DlhRNykfUE7PiLq-NrjoHgrzAb78VfOyl1rRsadVlSA",
   },
 ];
 
